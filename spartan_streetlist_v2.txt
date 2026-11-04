@@ -1,0 +1,85 @@
+2nd Ave
+   4940 - 4942 (even)	15:13
+   4835 - 5033 (odd)	15:13
+   5108 - 5282 (even)	15:18
+   5115 - 5331 (odd)	15:18
+Abanda Way	15:16
+Almeda St	15:18
+Ampere St	15:16
+Ashton Ave	15:16
+Berwick St	15:13
+Blair St	15:15
+Chaplain Way	15:15
+Chatsworth Ave	15:13
+Courtland St	15:15
+Dolphin St	15:13
+Dyke St	15:18
+Eddington St	15:16
+Electric Ave	15:16
+Elizabeth St E St
+   304 - 446 (even)	15:16
+   205 - 407 (odd)	15:16
+   200 - 238 (even)	15:18
+   139 - 141 (odd)	15:13
+Elizabeth St W St	15:15
+Flowers Ave
+   128 - 134 (even)	15:13
+   153 - 383 (odd)	15:13
+   210 - 380 (even)	15:16
+Gate Lodge Way	15:18
+Gertrude St
+   5216 - 5316 (even)	15:18
+   5215 - 5319 (odd)	15:18
+   4913 - 5017 (odd)	15:16
+   4904 - 5014 (even)	15:13
+Glen Caladh St
+   105 - 143 (odd)	15:13
+   210 - 226 (even)	15:16
+   207 - 237 (odd)	15:16
+Glenwood Ave
+   2 - 5018 (even)	15:16
+   4939 - 5129 (odd)	15:16
+   5106 - 5108 (even)	15:18
+   5201 - 5217 (odd)	15:18
+Gloster St	15:15
+Hazelwood Ave	15:13
+Irvine St	15:13
+Johnston Ave
+   301 - 515 (odd)	15:16
+   202 - 418 (even)	15:18
+   113 - 245 (odd)	15:18
+Joyce Ter	15:16
+Kilbourne St	15:16
+Kinglake St	15:16
+Ladora Way	15:15
+Langhorn St	15:15
+Lytle St	15:15
+Mansion St
+   414 - 432 (even)	15:16
+   413 - 425 (odd)	15:16
+   108 - 256 (even)	15:18
+   215 - 333 (odd)	15:18
+Marsden St	15:13
+Monongahela St	15:13
+Morse Way	15:16
+Nansen St	15:13
+Odin St	15:16
+Orinoco St	15:16
+Path Way	15:15
+Pauley Ave	15:16
+Roma St	15:15
+Second Ave	15:18
+Steele Ct	15:16
+Sylvan Ave	15:13
+Tecumseh St
+   112 - 144 (even)	15:13
+   111 - 141 (odd)	15:13
+   4 - 8 (even)	15:15
+   1 - 27 (odd)	15:15
+Tipton St
+   110 - 136 (even)	15:13
+   123 - 133 (odd)	15:13
+   200 - 220 (even)	15:16
+   215 - 223 (odd)	15:16
+Trowbridge St	15:18
+Winston St	15:18
